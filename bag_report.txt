@@ -2,9 +2,9 @@
 2. Summary
 3. Description
 4.Severity 
-5. [A[D [C[DSeverity
-[C[C[CPriority
-6. Actual result
-7. Expected result
-8. Testing environment
-9. Scrinshots
+5. Severity
+6.Priority
+7. Actual result
+8. Expected result
+9. Testing environment
+10 Screenshots
